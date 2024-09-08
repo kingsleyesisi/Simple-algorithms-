@@ -20,7 +20,13 @@ def verify(index):
 # Test the function
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
 
-result = linear_search(numbers, 10)
+
+start_time = time.perf_counter() # Start time of the function
+#  call the function
+result = linear_search(numbers, 8)
 verify(result)
+#  end of the function
+end_time = time.perf_counter()
 
-
+runtime = (end_time - start_time) * 1000
+print(f"Runtime: {runtime} miliseconds ")
