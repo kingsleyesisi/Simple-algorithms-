@@ -12,9 +12,9 @@ def verify(index):
     Verifies if the index is within the bounds of the list
     """
     if index is not None:
-        print("Rarget found at index: ", index)
+        print("Target found at index: ", index)
     else:
-        print("Traget not found in list ")
+        print("Target not found in list ")
 
 # Test the function
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
