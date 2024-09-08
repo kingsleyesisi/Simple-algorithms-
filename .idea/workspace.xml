@@ -4,32 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0bbb241-0bbc-4721-9990-f38606a103b9" name="Changes" comment="Created a linear search algorithm">
-      <change beforePath="$PROJECT_DIR$/linear_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/linear_search.py" afterDir="false" />
+    <list default="true" id="a0bbb241-0bbc-4721-9990-f38606a103b9" name="Changes" comment="check the run time of the algorithm">
+      <change afterPath="$PROJECT_DIR$/Binary _Search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "kingsleyesisi"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kingsleyesisi&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/kingsleyesisi/Simple-algorithms-.git",
-    "accountId": "78435ea2-8100-43dc-ba61-88314ce9d20a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kingsleyesisi/Simple-algorithms-.git&quot;,
+    &quot;accountId&quot;: &quot;78435ea2-8100-43dc-ba61-88314ce9d20a&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2ll0KhwMksWhc8wl0mxsqfGLBos" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Binary _Search.executor": "Run",
     "Python.linear_search.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -111,12 +120,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725788426014</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="check the run time of the algorithm">
+      <option name="closed" value="true" />
+      <created>1725789254246</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725789254246</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Created a linear search algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a linear search algorithm" />
+    <MESSAGE value="check the run time of the algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="check the run time of the algorithm" />
   </component>
 </project>
